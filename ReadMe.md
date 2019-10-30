@@ -1,0 +1,1 @@
+# Solution for [AutoSpeech Challenge 2019](https://autodl.lri.fr/competitions/48)
